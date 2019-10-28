@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements ProgrammingAdapte
 
 
     RecyclerView recyclerView;
+    private int a;
     ImageView imageView;
 
 
